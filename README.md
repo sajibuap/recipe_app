@@ -7,7 +7,7 @@
 # Recipe
 
 <img align="right" src="screenshots/app_icon/playstore.png" height="190"></img>
-This application is a Pre-assessment for the Mid-Level Flutter Developer position at [Battery Low Interactive Ltd.](https://batterylowinteractive.com/). You can read the details of the Pre-assessment from the pdf file [here](screenshots/pdf/Online*Assessment*(Flutter_Developer).pdf).<br /> It's an open-source project, hence use of the source code is governed by an MIT-style license that can be found in the LICENSE file or at [MIT LICENSE Info](https://choosealicense.com/licenses/mit/). This app is using a RESTful API from: [https://rapidapi.com/edamam/api/recipe-search-and-diet](https://rapidapi.com/edamam/api/recipe-search-and-diet).
+This application is a Pre-assessment for the Mid-Level Flutter Developer position .(screenshots/pdf/Online*Assessment*(Flutter_Developer).pdf).<br /> It's an open-source project, hence use of the source code is governed by an MIT-style license that can be found in the LICENSE file or at [MIT LICENSE Info](https://choosealicense.com/licenses/mit/). This app is using a RESTful API from: [https://rapidapi.com/edamam/api/recipe-search-and-diet](https://rapidapi.com/edamam/api/recipe-search-and-diet).
 
 ## Packages Used
 
